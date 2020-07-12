@@ -233,6 +233,7 @@ Create and upload a repository with the above files to GitHub and post a link on
 
 
 
-Copyright
->>>>>>> e9ca660874224aa3032f2dd1fbaba1c4fee40928
+
+### Copyright
+
 Trilogy Education Services © 2019. All Rights Reserved.
